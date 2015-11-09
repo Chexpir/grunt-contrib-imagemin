@@ -1,5 +1,5 @@
 {
-  "name": "grunt-contrib-imagemin",
+  "name": "grunt-ncr-contrib-imagemin",
   "description": "Minify images",
   "version": "0.9.4",
   "author": {
